@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hojin</h1>
 <h3 align="center">A passionate mobile developer from South Korea</h3>
 
-- 🔭 I’m currently working on **a personal project app.**
+- 🔭 I’m currently working on **a personal project to track chronic pain.**
 
-- 👨‍💻 All of my projects are available at [github.com/uhojin](github.com/uhojin)
+- 👨‍💻 All of my projects are available on github.
 
 - 📝 I rarely write articles on [uhojin.github.io/posts/](uhojin.github.io/posts/)
 
