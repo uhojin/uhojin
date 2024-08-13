@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Hojin</h1>
-<h3 align="center">A passionate mobile developer from South Korea</h3>
+<h1 align="center">Hojin You</h1>
+<!-- <hr/> -->
+<div align="center">Full Stack • App Developer</h3>
 
 - 🔭 I’m currently working on **a personal project to track chronic pain.**
 
