@@ -12,7 +12,7 @@
   experience
   </h2>
   <h3>
-    front
+    web & mobile
   </h3>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img alt="Static Badge"
@@ -26,9 +26,6 @@
     <img alt="Static Badge"
       src="https://img.shields.io/badge/swift-121212?style=for-the-badge&logo=swift&logoColor=%23F05138&logoSize=auto">
   </a>
-  <h3>
-    back
-  </h3>
   <p>
     <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
@@ -38,10 +35,10 @@
       <img alt="Static Badge"
         src="https://img.shields.io/badge/nginx-121212?style=for-the-badge&logo=nginx&logoColor=%23009639">
     </a>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <!-- <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
         src="https://img.shields.io/badge/Core-121212?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&logoSize=auto">
-    </a>
+    </a> -->
     <h3>
       infra & system
     </h3>
