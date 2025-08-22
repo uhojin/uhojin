@@ -1,72 +1,50 @@
 <div align="center">
   <h1>Hojin You</h1>
-  <div>Full Stack • App Developer • Old Man Yelling at Cloud</div>
+  <div>Terminal Enthusiast • Mobile Developer • Old Man Yelling at Cloud</div>
   <br />
   <p>
-    🔭 Working on a personal <strong>project to track chronic pain</strong> (Rheumatoid Arthritis)
+    🔭 Working on a personal <strong>project to track chronic pain</strong>
   </p>
-  <p>
+  <!-- <p>
     📝 I rarely write posts at my <a href="https://www.0ffline.tech/posts/">personal website</a>
-  </p>
+  </p> -->
   <h2 align="left">
-  tools
+  experience
   </h2>
   <h3>
-    mobile
-  </h3>
-  <a href="https://swift.org" target="_blank" rel="noreferrer">
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/swift-121212?style=for-the-badge&logo=swift&logoColor=%23F05138&logoSize=auto">
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/kotlin-121212?style=for-the-badge&logo=kotlin&logoColor=%237F52FF&logoSize=auto">
-  </a>
-  <a href="https://developer.android.com/compose" target="_blank" rel="noreferrer">
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/Compose-121212?style=for-the-badge&logo=jetpackcompose&logoColor=%234285F4">
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img alt="Static Badge"
-      src="https://img.shields.io/badge/flutter-121212?style=for-the-badge&logo=flutter&logoColor=%2302569B&logoSize=auto">
-  </a>
-  <h3>
-    web
+    front
   </h3>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img alt="Static Badge"
       src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF&logoSize=auto">
   </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <a href="https://figma.com/" target="_blank" rel="noreferrer">
     <img alt="Static Badge"
-      src="https://img.shields.io/badge/tailwindcss-121212?style=for-the-badge&logo=tailwindcss&logoColor=%2306B6D4&logoSize=auto">
+      src="https://img.shields.io/badge/svelte-121212?style=for-the-badge&logo=svelte&logoColor=%23FF3E00&logoSize=auto">
+  </a>
+    <a href="https://swift.org" target="_blank" rel="noreferrer">
+    <img alt="Static Badge"
+      src="https://img.shields.io/badge/swift-121212?style=for-the-badge&logo=swift&logoColor=%23F05138&logoSize=auto">
   </a>
   <h3>
     back
   </h3>
   <p>
-    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+    <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
-        src="https://img.shields.io/badge/Core-121212?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&logoSize=auto">
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img alt="Static Badge"
-        src="https://img.shields.io/badge/mongodb-121212?style=for-the-badge&logo=mongodb&logoColor=%2347A248">
+        src="https://img.shields.io/badge/Node.js-121212?style=for-the-badge&logo=nodedotjs&logoColor=%235FA04E">
     </a>
     <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
         src="https://img.shields.io/badge/nginx-121212?style=for-the-badge&logo=nginx&logoColor=%23009639">
     </a>
+    <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
+      <img alt="Static Badge"
+        src="https://img.shields.io/badge/Core-121212?style=for-the-badge&logo=dotnet&logoColor=%23512BD4&logoSize=auto">
+    </a>
     <h3>
       infra & system
     </h3>
-    <a href="https://git-scm.org/" target="_blank" rel="noreferrer">
-<img alt="Static Badge" src="https://img.shields.io/badge/git-121212?style=for-the-badge&logo=git&logoColor=%23F05032">
-  </a>
-    <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-      <img alt="Static Badge"
-        src="https://img.shields.io/badge/bash-121212?style=for-the-badge&logo=gnubash&logoColor=%234EAA25">
-    </a>
     <a href="https://www.gnu.org/gnu/linux-and-gnu.en.html" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
         src="https://img.shields.io/badge/GNU/Linux-121212?style=for-the-badge&logo=linux&logoColor=%23FCC624">
@@ -75,23 +53,24 @@
       <img alt="Static Badge"
         src="https://img.shields.io/badge/Docker-121212?style=for-the-badge&logo=docker&logoColor=%232496ED&logoSize=auto">
     </a>
-    <a href="https://mikrotik.com/" target="_blank" rel="noreferrer">
+    <a href="https://www.mqtt.org/" target="_blank" rel="noreferrer">
       <img alt="Static Badge"
-        src="https://img.shields.io/badge/Mikrotik-121212?style=for-the-badge&logo=mikrotik&logoColor=%23293239&logoSize=auto">
+        src="https://img.shields.io/badge/mqtt-121212?style=for-the-badge&logo=mqtt&logoColor=%23660066&logoSize=auto">
     </a>
-    
+    <h3>
+      hardware
+    </h3>
+    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+      <img alt="Static Badge"
+        src="https://img.shields.io/badge/Arduino-121212?style=for-the-badge&logo=arduino&logoColor=%23A6D157&logoSize=auto">
+    </a>
+    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer">
+      <img alt="Static Badge"
+        src="https://img.shields.io/badge/ESP32-121212?style=for-the-badge&logo=espressif&logoColor=%23FF4B3A&logoSize=auto">
+    </a>
+    <a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer">
+      <img alt="Static Badge"
+        src="https://img.shields.io/badge/Pi-121212?style=for-the-badge&logo=raspberrypi&logoColor=%23A22846&logoSize=auto">
+    </a>
   </p>
-
-  <h2 align="left">
-  dotfiles
-  </h2>
-  <a>
-      <img alt="Static Badge" src="https://img.shields.io/badge/.vimrc-121212?style=for-the-badge&logo=vim&logoColor=%23019733">
-  </a>
-<a>
-  <img alt="Static Badge" src="https://img.shields.io/badge/.zshrc-121212?style=for-the-badge&logo=zsh&logoColor=%23F15A24">
-</a>
-<a>
-    <img alt="Static Badge" src="https://img.shields.io/badge/.tmux.conf-121212?style=for-the-badge&logo=tmux&logoColor=%231BB91F">
-</a>
 </div>
