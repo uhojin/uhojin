@@ -2,12 +2,12 @@
   <h1>Hojin You</h1>
   <div>Terminal Enthusiast • Mobile Developer • Old Man Yelling at Cloud</div>
   <br />
-  <p>
-    🔭 Working on a personal <strong>project to track chronic pain</strong>
-  </p>
   <!-- <p>
-    📝 I rarely write posts at my <a href="https://www.0ffline.tech/posts/">personal website</a>
+    🔭 Working on a personal <strong>project to track chronic pain</strong>
   </p> -->
+  <p>
+    📝 Read about my latest activities <a href="https://uhojin.github.io">here</a>
+  </p>
   <h2 align="left">
   experience
   </h2>
