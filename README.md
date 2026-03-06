@@ -18,7 +18,7 @@
     <img alt="Static Badge"
       src="https://img.shields.io/badge/Next.js-121212?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF&logoSize=auto">
   </a>
-  <a href="https://figma.com/" target="_blank" rel="noreferrer">
+  <a href="https://svelte.dev/" target="_blank" rel="noreferrer">
     <img alt="Static Badge"
       src="https://img.shields.io/badge/svelte-121212?style=for-the-badge&logo=svelte&logoColor=%23FF3E00&logoSize=auto">
   </a>
