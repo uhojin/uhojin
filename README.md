@@ -6,7 +6,7 @@
     🔭 Working on a personal <strong>project to track chronic pain</strong>
   </p> -->
   <p>
-    📝 Read about my latest activities <a href="https://uhojin.github.io">here</a>
+    📝 Read about my latest activities <a href="https://ghwls.com/posts">here</a>
   </p>
   <h2 align="left">
   experience
